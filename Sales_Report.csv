@@ -1,0 +1,6 @@
+id,product_name,category,quantity,price_per_unit,sale_date,total_price,month
+1,Shampoo,Beauty,10,150.0,2023-11-10,1500.0,2023-11
+2,Notebook,Stationery,5,40.0,2023-11-11,200.0,2023-11
+3,Shampoo,Beauty,7,150.0,2023-11-15,1050.0,2023-11
+4,Pencil,Stationery,20,5.0,2023-12-01,100.0,2023-12
+5,Pen,Stationery,15,10.0,2023-12-02,150.0,2023-12
